@@ -39,7 +39,7 @@ My CV
 ![Swagger/Apidoc](https://img.shields.io/badge/-swagger/apidoc-090909?style=for-the-badge&logo=swagger)
 ![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=mysql)
 ![Cygwin/Terminal](https://img.shields.io/badge/-cygwin/terminal-090909?style=for-the-badge&logo=terminal&cygwin)
-
+![GitLab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab)
 
 
 
