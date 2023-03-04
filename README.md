@@ -25,7 +25,8 @@ My CV
 
 🌱 I’m currently learning
 
-Languages and Tools
+### Languages and Tools
+![Postman](https://img.shields.io/badge/-Postman-090909)
 
 Portfolio
 
