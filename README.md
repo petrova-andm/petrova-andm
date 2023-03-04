@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Header
+
+About me
+
+My CV
+
+🔭 I’m currently working on
+
+🌱 I’m currently learning
+
+Language and Tools
+
+Portfolio
+
+How to reach me:
