@@ -31,7 +31,7 @@ My CV
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 ![Яндекс.Трекер](https://img.shields.io/badge/-яндекс.трекер-090909?style=for-the-badge&logo=яндекс.трекер)
 ![YouTrack](https://img.shields.io/badge/-youtrack-090909?style=for-the-badge&logo=youtrack)
-![AndroidStudio](https://img.shields.io/badge/-androidstudio-090909?style=for-the-badge&logo=angroistudio)
+![AndroidStudio](https://img.shields.io/badge/-androidstudio-090909?style=for-the-badge&logo=androidstudio)
 ![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 ![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
 ![JSON](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json)
