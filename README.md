@@ -6,6 +6,7 @@
 
 
 ### Моё резюме 📄
+![Ссылка на мое резюме](https://docs.google.com/document/d/1uZNJr1xS22KUBisil9LazVzVdQ3fzjcRPjdd8WSHhFw/edit#)
 
 ### Портфолио 📁
 
@@ -25,6 +26,6 @@
 ![Cygwin/Terminal](https://img.shields.io/badge/-cygwin/terminal-090909?style=for-the-badge&logo=terminal&cygwin)
 ![GitLab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab)
 
-### Связь со мной
+### Связь со мной 📞
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ouralind)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)]()
