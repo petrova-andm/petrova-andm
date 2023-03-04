@@ -6,7 +6,7 @@
 
 
 ### Моё резюме 📄
-![Ссылка на мое резюме](https://docs.google.com/document/d/1uZNJr1xS22KUBisil9LazVzVdQ3fzjcRPjdd8WSHhFw/edit#)
+[Ссылка на мое резюме](https://docs.google.com/document/d/1uZNJr1xS22KUBisil9LazVzVdQ3fzjcRPjdd8WSHhFw/edit#)
 
 ### Портфолио 📁
 
