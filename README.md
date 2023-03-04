@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/petrova-andm/petrova-andm/blob/main/assets/header.png)
 
-About me
+## I am a QA Engineer
 
 My CV
 
