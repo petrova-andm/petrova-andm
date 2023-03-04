@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/petrova-andm/petrova-andm/blob/main/assets/header.png)
 
-## Я инженер по тестированию
+## Я инженер по тестированию 🐞
 
 My CV
 
