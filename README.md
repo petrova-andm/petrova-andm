@@ -1,4 +1,4 @@
-### Hi there 👋
+## Привет 👋
 
 <!--
 **petrova-andm/petrova-andm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/petrova-andm/petrova-andm/blob/main/assets/header.png)
 
-## I am a QA Engineer
+## Я инженер по тестированию
 
 My CV
 
