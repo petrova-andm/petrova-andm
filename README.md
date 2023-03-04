@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Header
+![Header](https://github.com/petrova-andm/petrova-andm/blob/main/assets/header.png)
 
 About me
 
@@ -25,8 +25,9 @@ My CV
 
 🌱 I’m currently learning
 
-Language and Tools
+Languages and Tools
 
 Portfolio
 
 How to reach me:
+
