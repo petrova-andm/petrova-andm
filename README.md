@@ -4,7 +4,10 @@
 
 ## Я инженер по тестированию 🐞
 
+
 ### Моё резюме 📄
+
+### Портфолио 📁
 
 ### Языки и инструменты 🛠️
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome)
@@ -22,9 +25,6 @@
 ![Cygwin/Terminal](https://img.shields.io/badge/-cygwin/terminal-090909?style=for-the-badge&logo=terminal&cygwin)
 ![GitLab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab)
 
-
-
-Portfolio
-
-How to reach me:
-
+### Связь со мной
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ouralind)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)]()
