@@ -11,7 +11,8 @@
 [Яндекс.Маршруты](https://github.com/petrova-andm/Yandex.Routes)  
 [Яндекс.Метро](https://github.com/petrova-andm/Yandex.Metro)  
 [API приложения Яндекс.Прилавок](https://github.com/petrova-andm/Yandex.Counter)  
-[Работа в консоли с логами и базой данных о поездках такси в Чикаго]()
+[Работа в консоли с логами и базой данных о поездках такси в Чикаго]() 
+[Яндекс.Самока](https://github.com/petrova-andm/Yandex.Samokat)
 
 ### Языки и инструменты 🛠️
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome)
